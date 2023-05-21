@@ -1,0 +1,23 @@
+img {
+    margin: 10px;
+    padding: 10px;
+}
+
+.btn {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 117px;
+    background: #c1cfe9;
+}
+
+.tabledice {
+    padding: 15px;
+    width: 344px;
+    margin-left: 540px;
+    margin-top: 50px;
+    background-color: #a50d1a;
+}
